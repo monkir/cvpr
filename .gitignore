@@ -1,5 +1,8 @@
 # My directories
 CIFAR-10-images-master/
+Dataset 1/
+Dataset 2/
+Dataset 3/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
